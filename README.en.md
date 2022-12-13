@@ -1,7 +1,9 @@
-# SKYER技术中台 技术底座
+# 电商业务中台OMS全渠道一盘货订单管理系统
 
 #### Description
-SKYER技术中台 技术底座
+厦门飞骥科技通过打造通用的中台系统，实现快速部署，并帮助企业后续自主进行开发迭代，来帮助企业实现数字化转型。飞骥能提供的中台系统包括：通用业务中台、强大的技术中台、后续开发方案的设计，技术及管理人员的培训等。
+
+演示地址：https://k8s9.com/
 
 #### Software Architecture
 Software architecture description
