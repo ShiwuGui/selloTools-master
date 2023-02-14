@@ -61,7 +61,7 @@
 
 ### 试用方式和联系我们 
    
-演示地址：https://www.flightsteed.com/ 点击导航栏上的免费试用  用户名：demo 密码:abcd1234
+演示地址：https://www.flightsteed.com/ 点击导航栏的DEMO 用户名：demo 密码:abcd1234
  
 微信:Blowbing
 
